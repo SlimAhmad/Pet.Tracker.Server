@@ -1,0 +1,1161 @@
+WARNING: [2020-03-02 12:08:49] No type was specified for the decimal column 'Height' on entity type 'PetsDataModel'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-02 12:09:00] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-02 12:09:00] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-02 12:09:00] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-02 12:09:00] Hosting environment: Development
+INFORMATION: [2020-03-02 12:09:00] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+ERROR: [2020-03-02 12:09:13] An unhandled exception has occurred while executing the request.
+WARNING: [2020-03-02 12:12:40] No type was specified for the decimal column 'Height' on entity type 'PetsDataModel'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-02 12:12:40] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-02 12:12:40] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-02 12:12:40] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-02 12:12:40] Hosting environment: Development
+INFORMATION: [2020-03-02 12:12:40] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+WARNING: [2020-03-02 12:12:50] User e5f76fd5-ee64-4c1e-8f47-3f3b17a188f7 validation failed: DuplicateUserName;DuplicateEmail.
+ERROR: [2020-03-02 12:12:50] An unhandled exception has occurred while executing the request.
+WARNING: [2020-03-02 12:14:10] User b7219f3f-b6e7-4683-b23f-4ac2e8831252 validation failed: DuplicateUserName;DuplicateEmail.
+ERROR: [2020-03-02 12:14:10] An unhandled exception has occurred while executing the request.
+WARNING: [2020-03-02 12:14:12] User 4e230d5c-4292-4911-b47e-312fd7d21a82 validation failed: DuplicateUserName;DuplicateEmail.
+ERROR: [2020-03-02 12:14:12] An unhandled exception has occurred while executing the request.
+WARNING: [2020-03-02 12:14:12] User 3dbcf188-019d-474f-8ec2-a0c381a22470 validation failed: DuplicateUserName;DuplicateEmail.
+ERROR: [2020-03-02 12:14:12] An unhandled exception has occurred while executing the request.
+WARNING: [2020-03-02 12:14:13] User a5a7bc31-49de-48a6-9c4b-fba5eb761e0b validation failed: DuplicateUserName;DuplicateEmail.
+ERROR: [2020-03-02 12:14:13] An unhandled exception has occurred while executing the request.
+WARNING: [2020-03-02 12:14:13] User 7b145460-7a2f-4762-ba59-313698a8c732 validation failed: DuplicateUserName;DuplicateEmail.
+ERROR: [2020-03-02 12:14:13] An unhandled exception has occurred while executing the request.
+WARNING: [2020-03-02 12:22:30] No type was specified for the decimal column 'Height' on entity type 'PetsDataModel'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-02 12:22:31] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-02 12:22:31] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-02 12:22:31] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-02 12:22:31] Hosting environment: Development
+INFORMATION: [2020-03-02 12:22:31] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+WARNING: [2020-03-02 12:22:38] User 1a09f93d-e0a9-4222-bc96-2ef04dac6d4b validation failed: DuplicateUserName;DuplicateEmail.
+ERROR: [2020-03-02 12:22:38] An unhandled exception has occurred while executing the request.
+WARNING: [2020-03-02 12:24:40] No type was specified for the decimal column 'Height' on entity type 'PetsDataModel'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-02 12:24:41] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-02 12:24:41] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-02 12:24:41] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-02 12:24:41] Hosting environment: Development
+INFORMATION: [2020-03-02 12:24:41] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+WARNING: [2020-03-02 12:24:51] User b43b397c-ee53-4a5a-ab04-03c0756417b1 validation failed: DuplicateUserName;DuplicateEmail.
+WARNING: [2020-03-02 12:34:12] No type was specified for the decimal column 'Height' on entity type 'PetsDataModel'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-02 12:34:13] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-02 12:34:13] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-02 12:34:13] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-02 12:34:13] Hosting environment: Development
+INFORMATION: [2020-03-02 12:34:13] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+WARNING: [2020-03-02 12:34:56] User 82db5239-7fde-4523-8ea4-0ca99ec3cb70 validation failed: DuplicateUserName;DuplicateEmail.
+WARNING: [2020-03-02 12:34:57] User a54bf35b-e01a-4b07-be5d-01951265e670 validation failed: DuplicateUserName;DuplicateEmail.
+WARNING: [2020-03-02 12:34:58] User 587d020d-e2cc-4ce9-9de7-aa81eebf16d6 validation failed: DuplicateUserName;DuplicateEmail.
+WARNING: [2020-03-02 12:36:11] User 8cf7c710-3b42-43ba-bd57-df0d5001ac89 validation failed: DuplicateUserName;DuplicateEmail.
+WARNING: [2020-03-02 12:36:12] User bab3fa2a-21ad-459d-b1c3-86366af2952d validation failed: DuplicateUserName;DuplicateEmail.
+WARNING: [2020-03-02 12:39:47] No type was specified for the decimal column 'Height' on entity type 'PetsDataModel'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-02 12:39:47] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-02 12:39:48] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-02 12:39:48] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-02 12:39:48] Hosting environment: Development
+INFORMATION: [2020-03-02 12:39:48] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+ERROR: [2020-03-02 12:39:57] An unhandled exception has occurred while executing the request.
+WARNING: [2020-03-02 12:41:42] No type was specified for the decimal column 'Height' on entity type 'PetsDataModel'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-02 12:41:42] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-02 12:41:42] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-02 12:41:42] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-02 12:41:42] Hosting environment: Development
+INFORMATION: [2020-03-02 12:41:42] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+WARNING: [2020-03-02 12:42:59] No type was specified for the decimal column 'Height' on entity type 'PetsDataModel'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-02 12:43:00] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-02 12:43:00] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-02 12:43:00] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-02 12:43:00] Hosting environment: Development
+INFORMATION: [2020-03-02 12:43:00] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+ERROR: [2020-03-02 12:43:11] An unhandled exception has occurred while executing the request.
+WARNING: [2020-03-02 12:43:46] No type was specified for the decimal column 'Height' on entity type 'PetsDataModel'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-02 12:43:46] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-02 12:43:46] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-02 12:43:46] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-02 12:43:46] Hosting environment: Development
+INFORMATION: [2020-03-02 12:43:46] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+ERROR: [2020-03-02 12:44:00] An unhandled exception has occurred while executing the request.
+WARNING: [2020-03-02 12:45:36] No type was specified for the decimal column 'Height' on entity type 'PetsDataModel'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-02 12:45:37] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-02 12:45:37] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-02 12:45:37] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-02 12:45:37] Hosting environment: Development
+INFORMATION: [2020-03-02 12:45:37] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+WARNING: [2020-03-02 12:46:21] No type was specified for the decimal column 'Height' on entity type 'PetsDataModel'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-02 12:46:21] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-02 12:46:21] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-02 12:46:21] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-02 12:46:21] Hosting environment: Development
+INFORMATION: [2020-03-02 12:46:21] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+ERROR: [2020-03-02 12:46:28] An unhandled exception has occurred while executing the request.
+WARNING: [2020-03-02 12:46:49] No type was specified for the decimal column 'Height' on entity type 'PetsDataModel'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-02 12:46:49] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-02 12:46:49] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-02 12:46:49] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-02 12:46:49] Hosting environment: Development
+INFORMATION: [2020-03-02 12:46:49] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+ERROR: [2020-03-02 12:46:55] An unhandled exception has occurred while executing the request.
+WARNING: [2020-03-02 12:48:38] No type was specified for the decimal column 'Height' on entity type 'PetsDataModel'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-02 12:48:38] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-02 12:48:38] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-02 12:48:38] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-02 12:48:38] Hosting environment: Development
+INFORMATION: [2020-03-02 12:48:39] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+ERROR: [2020-03-02 12:48:46] An unhandled exception has occurred while executing the request.
+WARNING: [2020-03-02 12:49:47] No type was specified for the decimal column 'Height' on entity type 'PetsDataModel'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-02 12:49:47] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-02 12:49:47] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-02 12:49:47] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-02 12:49:47] Hosting environment: Development
+INFORMATION: [2020-03-02 12:49:47] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+WARNING: [2020-03-02 12:50:12] User a7b31a0a-7d90-4f9f-b2b7-55382bae8c45 validation failed: DuplicateUserName;DuplicateEmail.
+WARNING: [2020-03-02 12:50:57] No type was specified for the decimal column 'Height' on entity type 'PetsDataModel'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-02 12:50:57] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-02 12:50:57] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-02 12:50:57] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-02 12:50:57] Hosting environment: Development
+INFORMATION: [2020-03-02 12:50:57] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+WARNING: [2020-03-02 12:51:26] User 41ca4b5d-2917-4f8e-8331-f4749c5ce382 validation failed: DuplicateUserName;DuplicateEmail.
+WARNING: [2020-03-02 02:14:42] No type was specified for the decimal column 'Height' on entity type 'PetsDataModel'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-02 02:14:44] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-02 02:14:44] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-02 02:14:44] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-02 02:14:44] Hosting environment: Development
+INFORMATION: [2020-03-02 02:14:44] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+WARNING: [2020-03-02 02:19:07] No type was specified for the decimal column 'Height' on entity type 'PetsDataModel'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-02 02:19:07] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-02 02:19:07] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-02 02:19:08] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-02 02:19:08] Hosting environment: Development
+INFORMATION: [2020-03-02 02:19:08] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+ERROR: [2020-03-02 02:19:29] An unhandled exception has occurred while executing the request.
+WARNING: [2020-03-03 01:13:50] No type was specified for the decimal column 'Height' on entity type 'PetsDataModel'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-03 01:14:02] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-03 01:14:02] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-03 01:14:02] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-03 01:14:02] Hosting environment: Development
+INFORMATION: [2020-03-03 01:14:02] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+WARNING: [2020-03-03 01:18:14] No type was specified for the decimal column 'Height' on entity type 'PetsDataModel'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-03 01:18:15] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-03 01:18:15] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-03 01:18:15] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-03 01:18:15] Hosting environment: Development
+INFORMATION: [2020-03-03 01:18:15] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+ERROR: [2020-03-03 01:19:03] An unhandled exception has occurred while executing the request.
+WARNING: [2020-03-03 01:19:59] No type was specified for the decimal column 'Height' on entity type 'PetsDataModel'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-03 01:20:00] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-03 01:20:00] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-03 01:20:00] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-03 01:20:00] Hosting environment: Development
+INFORMATION: [2020-03-03 01:20:00] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+WARNING: [2020-03-03 08:31:34] No type was specified for the decimal column 'Height' on entity type 'PetsDataModel'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-03 08:31:35] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-03 08:31:35] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-03 08:31:35] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-03 08:31:35] Hosting environment: Development
+INFORMATION: [2020-03-03 08:31:35] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+WARNING: [2020-03-03 08:32:07] No type was specified for the decimal column 'Height' on entity type 'PetsDataModel'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-03 08:32:08] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-03 08:32:08] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-03 08:32:08] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-03 08:32:08] Hosting environment: Development
+INFORMATION: [2020-03-03 08:32:08] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+WARNING: [2020-03-03 08:44:45] No type was specified for the decimal column 'Height' on entity type 'PetsDataModel'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-03 08:44:46] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-03 08:44:46] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-03 08:44:46] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-03 08:44:46] Hosting environment: Development
+INFORMATION: [2020-03-03 08:44:46] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+WARNING: [2020-03-03 08:45:32] No type was specified for the decimal column 'Height' on entity type 'PetsDataModel'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-03 08:45:32] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-03 08:45:32] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-03 08:45:32] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-03 08:45:32] Hosting environment: Development
+INFORMATION: [2020-03-03 08:45:32] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+ERROR: [2020-03-03 08:48:15] An unhandled exception has occurred while executing the request.
+ERROR: [2020-03-03 08:53:42] An unhandled exception has occurred while executing the request.
+ERROR: [2020-03-03 08:53:46] An unhandled exception has occurred while executing the request.
+ERROR: [2020-03-03 08:53:47] An unhandled exception has occurred while executing the request.
+ERROR: [2020-03-03 08:53:48] An unhandled exception has occurred while executing the request.
+ERROR: [2020-03-03 08:53:49] An unhandled exception has occurred while executing the request.
+ERROR: [2020-03-03 08:53:50] An unhandled exception has occurred while executing the request.
+ERROR: [2020-03-03 08:53:56] An unhandled exception has occurred while executing the request.
+ERROR: [2020-03-03 08:53:58] An unhandled exception has occurred while executing the request.
+ERROR: [2020-03-03 08:53:58] An unhandled exception has occurred while executing the request.
+ERROR: [2020-03-03 08:53:58] An unhandled exception has occurred while executing the request.
+WARNING: [2020-03-03 08:54:21] No type was specified for the decimal column 'Height' on entity type 'PetsDataModel'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-03 08:54:22] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-03 08:54:22] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-03 08:54:22] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-03 08:54:22] Hosting environment: Development
+INFORMATION: [2020-03-03 08:54:22] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+ERROR: [2020-03-03 08:55:18] An unhandled exception has occurred while executing the request.
+WARNING: [2020-03-03 08:57:00] No type was specified for the decimal column 'Height' on entity type 'PetsDataModel'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-03 08:57:00] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-03 08:57:00] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-03 08:57:00] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-03 08:57:00] Hosting environment: Development
+INFORMATION: [2020-03-03 08:57:00] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+ERROR: [2020-03-03 08:57:16] An unhandled exception has occurred while executing the request.
+WARNING: [2020-03-03 09:03:33] No type was specified for the decimal column 'Height' on entity type 'PetsDataModel'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-03 09:03:34] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-03 09:03:34] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-03 09:03:34] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-03 09:03:34] Hosting environment: Development
+INFORMATION: [2020-03-03 09:03:34] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+ERROR: [2020-03-03 09:03:52] An unhandled exception has occurred while executing the request.
+WARNING: [2020-03-03 09:10:18] No type was specified for the decimal column 'Height' on entity type 'PetsDataModel'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-03 09:10:19] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-03 09:10:19] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-03 09:10:19] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-03 09:10:19] Hosting environment: Development
+INFORMATION: [2020-03-03 09:10:19] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+ERROR: [2020-03-03 09:11:22] An unhandled exception has occurred while executing the request.
+WARNING: [2020-03-03 09:12:03] No type was specified for the decimal column 'Height' on entity type 'PetsDataModel'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-03 09:12:04] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-03 09:12:04] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-03 09:12:04] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-03 09:12:04] Hosting environment: Development
+INFORMATION: [2020-03-03 09:12:04] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+ERROR: [2020-03-03 09:12:46] An unhandled exception has occurred while executing the request.
+WARNING: [2020-03-03 09:14:59] No type was specified for the decimal column 'Height' on entity type 'PetsDataModel'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-03 09:15:01] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-03 09:15:01] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-03 09:15:01] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-03 09:15:01] Hosting environment: Development
+INFORMATION: [2020-03-03 09:15:01] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+ERROR: [2020-03-03 09:16:29] An unhandled exception has occurred while executing the request.
+ERROR: [2020-03-03 09:19:19] An unhandled exception has occurred while executing the request.
+WARNING: [2020-03-03 09:20:13] No type was specified for the decimal column 'Height' on entity type 'PetsDataModel'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-03 09:20:13] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-03 09:20:13] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-03 09:20:13] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-03 09:20:13] Hosting environment: Development
+INFORMATION: [2020-03-03 09:20:13] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+ERROR: [2020-03-03 09:20:57] An unhandled exception has occurred while executing the request.
+WARNING: [2020-03-03 09:27:06] No type was specified for the decimal column 'Height' on entity type 'PetsDataModel'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-03 09:27:06] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-03 09:27:06] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-03 09:27:06] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-03 09:27:06] Hosting environment: Development
+INFORMATION: [2020-03-03 09:27:06] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+ERROR: [2020-03-03 09:32:04] An unhandled exception has occurred while executing the request.
+WARNING: [2020-03-03 09:38:16] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-03 09:38:17] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-03 09:38:17] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-03 09:38:17] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-03 09:38:17] Hosting environment: Development
+INFORMATION: [2020-03-03 09:38:17] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+ERROR: [2020-03-03 09:39:56] An unhandled exception has occurred while executing the request.
+WARNING: [2020-03-03 09:41:16] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-03 09:41:17] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-03 09:41:17] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-03 09:41:17] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-03 09:41:17] Hosting environment: Development
+INFORMATION: [2020-03-03 09:41:17] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+ERROR: [2020-03-03 09:42:33] An unhandled exception has occurred while executing the request.
+WARNING: [2020-03-03 09:44:40] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-03 09:44:40] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-03 09:44:40] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-03 09:44:40] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-03 09:44:40] Hosting environment: Development
+INFORMATION: [2020-03-03 09:44:40] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+ERROR: [2020-03-03 09:44:55] An unhandled exception has occurred while executing the request.
+WARNING: [2020-03-03 09:46:19] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-03 09:46:20] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-03 09:46:20] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-03 09:46:20] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-03 09:46:20] Hosting environment: Development
+INFORMATION: [2020-03-03 09:46:20] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+ERROR: [2020-03-03 09:46:41] An unhandled exception has occurred while executing the request.
+WARNING: [2020-03-03 09:47:33] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-03 09:47:34] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-03 09:47:34] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-03 09:47:34] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-03 09:47:34] Hosting environment: Development
+INFORMATION: [2020-03-03 09:47:34] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+ERROR: [2020-03-03 09:47:57] An unhandled exception has occurred while executing the request.
+WARNING: [2020-03-03 09:50:08] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-03 09:50:08] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-03 09:50:08] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-03 09:50:08] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-03 09:50:08] Hosting environment: Development
+INFORMATION: [2020-03-03 09:50:08] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+ERROR: [2020-03-03 09:50:27] An unhandled exception has occurred while executing the request.
+WARNING: [2020-03-03 09:59:04] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-03 09:59:04] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-03 09:59:04] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-03 09:59:04] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-03 09:59:04] Hosting environment: Development
+INFORMATION: [2020-03-03 09:59:04] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+ERROR: [2020-03-03 10:04:38] An unhandled exception has occurred while executing the request.
+WARNING: [2020-03-03 10:06:12] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-03 10:06:12] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-03 10:06:12] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-03 10:06:12] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-03 10:06:12] Hosting environment: Development
+INFORMATION: [2020-03-03 10:06:12] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+ERROR: [2020-03-03 10:07:00] An unhandled exception has occurred while executing the request.
+WARNING: [2020-03-03 10:51:22] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-03 10:51:22] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-03 10:51:22] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-03 10:51:22] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-03 10:51:22] Hosting environment: Development
+INFORMATION: [2020-03-03 10:51:22] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+ERROR: [2020-03-03 10:54:12] An unhandled exception has occurred while executing the request.
+WARNING: [2020-03-03 10:55:25] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-03 10:55:26] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-03 10:55:26] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-03 10:55:26] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-03 10:55:26] Hosting environment: Development
+INFORMATION: [2020-03-03 10:55:26] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+ERROR: [2020-03-03 10:56:33] An unhandled exception has occurred while executing the request.
+WARNING: [2020-03-03 10:57:20] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-03 10:57:21] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-03 10:57:21] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-03 10:57:21] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-03 10:57:21] Hosting environment: Development
+INFORMATION: [2020-03-03 10:57:21] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+ERROR: [2020-03-03 10:58:16] An unhandled exception has occurred while executing the request.
+WARNING: [2020-03-03 11:03:28] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-03 11:03:28] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-03 11:03:28] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-03 11:03:28] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-03 11:03:28] Hosting environment: Development
+INFORMATION: [2020-03-03 11:03:28] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+ERROR: [2020-03-03 11:04:01] An unhandled exception has occurred while executing the request.
+ERROR: [2020-03-03 11:05:29] An unhandled exception has occurred while executing the request.
+WARNING: [2020-03-03 11:24:20] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-03 11:24:20] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-03 11:24:20] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-03 11:24:20] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-03 11:24:20] Hosting environment: Development
+INFORMATION: [2020-03-03 11:24:20] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+ERROR: [2020-03-03 11:25:54] An unhandled exception has occurred while executing the request.
+ERROR: [2020-03-03 11:29:48] An unhandled exception has occurred while executing the request.
+ERROR: [2020-03-03 11:32:07] An unhandled exception has occurred while executing the request.
+ERROR: [2020-03-03 11:36:04] An unhandled exception has occurred while executing the request.
+WARNING: [2020-03-03 11:36:33] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-03 11:36:34] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-03 11:36:34] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-03 11:36:34] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-03 11:36:34] Hosting environment: Development
+INFORMATION: [2020-03-03 11:36:34] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+ERROR: [2020-03-03 11:37:01] An unhandled exception has occurred while executing the request.
+ERROR: [2020-03-03 11:37:28] An unhandled exception has occurred while executing the request.
+WARNING: [2020-03-03 11:38:48] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-03 11:38:49] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-03 11:38:49] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-03 11:38:49] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-03 11:38:49] Hosting environment: Development
+INFORMATION: [2020-03-03 11:38:49] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+WARNING: [2020-03-03 11:46:45] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-03 11:46:46] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-03 11:46:46] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-03 11:46:46] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-03 11:46:46] Hosting environment: Development
+INFORMATION: [2020-03-03 11:46:46] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+ERROR: [2020-03-03 11:47:42] An unhandled exception has occurred while executing the request.
+ERROR: [2020-03-03 11:48:26] An unhandled exception has occurred while executing the request.
+ERROR: [2020-03-03 11:50:33] An unhandled exception has occurred while executing the request.
+WARNING: [2020-03-03 11:50:56] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-03 11:50:57] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-03 11:50:57] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-03 11:50:57] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-03 11:50:57] Hosting environment: Development
+INFORMATION: [2020-03-03 11:50:57] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+ERROR: [2020-03-03 11:51:10] An unhandled exception has occurred while executing the request.
+WARNING: [2020-03-03 11:53:48] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-03 11:53:49] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-03 11:53:49] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-03 11:53:49] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-03 11:53:49] Hosting environment: Development
+INFORMATION: [2020-03-03 11:53:49] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+WARNING: [2020-03-03 11:59:16] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-03 11:59:17] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-03 11:59:17] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-03 11:59:17] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-03 11:59:17] Hosting environment: Development
+INFORMATION: [2020-03-03 11:59:17] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+WARNING: [2020-03-03 12:02:23] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-03 12:02:24] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-03 12:02:24] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-03 12:02:24] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-03 12:02:24] Hosting environment: Development
+INFORMATION: [2020-03-03 12:02:24] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+WARNING: [2020-03-03 12:03:16] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-03 12:03:16] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-03 12:03:16] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-03 12:03:16] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-03 12:03:16] Hosting environment: Development
+INFORMATION: [2020-03-03 12:03:16] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+WARNING: [2020-03-03 12:04:37] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-03 12:04:37] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-03 12:04:37] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-03 12:04:37] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-03 12:04:37] Hosting environment: Development
+INFORMATION: [2020-03-03 12:04:37] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+WARNING: [2020-03-03 02:53:05] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-03 02:53:05] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-03 02:53:05] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-03 02:53:05] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-03 02:53:05] Hosting environment: Development
+INFORMATION: [2020-03-03 02:53:05] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+WARNING: [2020-03-04 12:38:31] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-04 12:38:32] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-04 12:38:32] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-04 12:38:32] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-04 12:38:32] Hosting environment: Development
+INFORMATION: [2020-03-04 12:38:32] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+WARNING: [2020-03-04 12:45:31] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-04 12:45:32] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-04 12:45:32] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-04 12:45:32] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-04 12:45:32] Hosting environment: Development
+INFORMATION: [2020-03-04 12:45:32] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+ERROR: [2020-03-04 01:01:31] An unhandled exception has occurred while executing the request.
+WARNING: [2020-03-04 01:07:53] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-04 01:07:54] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-04 01:07:54] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-04 01:07:54] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-04 01:07:54] Hosting environment: Development
+INFORMATION: [2020-03-04 01:07:54] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+WARNING: [2020-03-04 01:10:40] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-04 01:10:41] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-04 01:10:41] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-04 01:10:41] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-04 01:10:41] Hosting environment: Development
+INFORMATION: [2020-03-04 01:10:41] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+WARNING: [2020-03-04 01:18:03] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-04 01:18:03] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-04 01:18:03] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-04 01:18:03] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-04 01:18:03] Hosting environment: Development
+INFORMATION: [2020-03-04 01:18:03] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+WARNING: [2020-03-04 01:19:37] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-04 01:19:37] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-04 01:19:37] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-04 01:19:37] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-04 01:19:37] Hosting environment: Development
+INFORMATION: [2020-03-04 01:19:37] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+WARNING: [2020-03-04 01:42:57] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-04 01:42:57] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-04 01:42:57] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-04 01:42:57] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-04 01:42:57] Hosting environment: Development
+INFORMATION: [2020-03-04 01:42:57] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+WARNING: [2020-03-04 01:46:00] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-04 01:46:01] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-04 01:46:01] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-04 01:46:01] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-04 01:46:01] Hosting environment: Development
+INFORMATION: [2020-03-04 01:46:01] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+WARNING: [2020-03-04 01:55:28] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-04 01:55:29] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-04 01:55:29] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-04 01:55:29] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-04 01:55:29] Hosting environment: Development
+INFORMATION: [2020-03-04 01:55:29] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+ERROR: [2020-03-04 02:00:28] An unhandled exception has occurred while executing the request.
+ERROR: [2020-03-04 02:01:03] An unhandled exception has occurred while executing the request.
+WARNING: [2020-03-04 02:08:04] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-04 02:08:05] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-04 02:08:05] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-04 02:08:05] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-04 02:08:05] Hosting environment: Development
+INFORMATION: [2020-03-04 02:08:05] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+ERROR: [2020-03-04 02:08:32] An unhandled exception has occurred while executing the request.
+WARNING: [2020-03-04 02:08:57] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-04 02:08:57] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-04 02:08:58] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-04 02:08:58] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-04 02:08:58] Hosting environment: Development
+INFORMATION: [2020-03-04 02:08:58] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+ERROR: [2020-03-04 02:10:05] An unhandled exception has occurred while executing the request.
+WARNING: [2020-03-04 02:14:27] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-04 02:14:27] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-04 02:14:27] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-04 02:14:27] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-04 02:14:27] Hosting environment: Development
+INFORMATION: [2020-03-04 02:14:27] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+WARNING: [2020-03-04 02:16:12] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-04 02:16:13] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-04 02:16:13] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-04 02:16:13] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-04 02:16:13] Hosting environment: Development
+INFORMATION: [2020-03-04 02:16:13] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+ERROR: [2020-03-04 02:17:34] An unhandled exception has occurred while executing the request.
+WARNING: [2020-03-04 02:18:00] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-04 02:18:00] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-04 02:18:00] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-04 02:18:00] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-04 02:18:00] Hosting environment: Development
+INFORMATION: [2020-03-04 02:18:00] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+WARNING: [2020-03-04 02:21:27] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-04 02:21:27] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-04 02:21:27] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-04 02:21:27] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-04 02:21:27] Hosting environment: Development
+INFORMATION: [2020-03-04 02:21:27] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+ERROR: [2020-03-04 02:24:25] An unhandled exception has occurred while executing the request.
+ERROR: [2020-03-04 02:24:44] An unhandled exception has occurred while executing the request.
+ERROR: [2020-03-04 02:25:11] An unhandled exception has occurred while executing the request.
+ERROR: [2020-03-04 02:27:15] An unhandled exception has occurred while executing the request.
+WARNING: [2020-03-04 02:30:37] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-04 02:30:37] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-04 02:30:37] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-04 02:30:37] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-04 02:30:37] Hosting environment: Development
+INFORMATION: [2020-03-04 02:30:37] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+ERROR: [2020-03-04 02:35:58] An unhandled exception has occurred while executing the request.
+WARNING: [2020-03-04 02:40:09] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-04 02:40:09] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-04 02:40:09] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-04 02:40:09] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-04 02:40:09] Hosting environment: Development
+INFORMATION: [2020-03-04 02:40:09] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+WARNING: [2020-03-04 02:41:46] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-04 02:41:57] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-04 02:41:57] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-04 02:41:57] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-04 02:41:57] Hosting environment: Development
+INFORMATION: [2020-03-04 02:41:57] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+ERROR: [2020-03-04 02:42:36] An unhandled exception has occurred while executing the request.
+ERROR: [2020-03-04 02:43:35] An unhandled exception has occurred while executing the request.
+WARNING: [2020-03-17 10:47:17] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-17 10:47:23] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-17 10:47:23] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-17 10:47:23] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-17 10:47:23] Hosting environment: Development
+INFORMATION: [2020-03-17 10:47:23] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+WARNING: [2020-03-17 10:52:24] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-17 10:52:25] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-17 10:52:25] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-17 10:52:25] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-17 10:52:25] Hosting environment: Development
+INFORMATION: [2020-03-17 10:52:25] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+WARNING: [2020-03-17 11:00:23] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-17 11:00:24] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-17 11:00:24] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-17 11:00:24] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-17 11:00:24] Hosting environment: Development
+INFORMATION: [2020-03-17 11:00:24] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+ERROR: [2020-03-17 11:01:09] An unhandled exception has occurred while executing the request.
+WARNING: [2020-03-17 11:02:05] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-17 11:02:06] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-17 11:02:06] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-17 11:02:06] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-17 11:02:06] Hosting environment: Development
+INFORMATION: [2020-03-17 11:02:06] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+ERROR: [2020-03-17 11:03:18] An unhandled exception has occurred while executing the request.
+WARNING: [2020-03-17 11:07:10] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-17 11:07:11] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-17 11:07:11] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-17 11:07:11] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-17 11:07:11] Hosting environment: Development
+INFORMATION: [2020-03-17 11:07:11] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+ERROR: [2020-03-17 11:07:18] An unhandled exception has occurred while executing the request.
+WARNING: [2020-03-17 11:09:08] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-17 11:09:08] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-17 11:09:08] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-17 11:09:08] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-17 11:09:08] Hosting environment: Development
+INFORMATION: [2020-03-17 11:09:08] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+WARNING: [2020-03-17 11:18:38] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-17 11:18:39] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-17 11:18:39] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-17 11:18:39] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-17 11:18:39] Hosting environment: Development
+INFORMATION: [2020-03-17 11:18:39] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+ERROR: [2020-03-17 11:19:16] An unhandled exception has occurred while executing the request.
+WARNING: [2020-03-17 11:25:09] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-17 11:25:10] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-17 11:25:10] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-17 11:25:10] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-17 11:25:10] Hosting environment: Development
+INFORMATION: [2020-03-17 11:25:10] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+ERROR: [2020-03-17 11:25:39] An unhandled exception has occurred while executing the request.
+WARNING: [2020-03-17 11:29:40] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-17 11:29:41] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-17 11:29:41] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-17 11:29:41] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-17 11:29:41] Hosting environment: Development
+INFORMATION: [2020-03-17 11:29:41] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+WARNING: [2020-03-17 11:33:40] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-17 11:33:41] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-17 11:33:41] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-17 11:33:41] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-17 11:33:41] Hosting environment: Development
+INFORMATION: [2020-03-17 11:33:41] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+WARNING: [2020-03-17 11:35:41] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-17 11:35:41] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-17 11:35:41] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-17 11:35:41] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-17 11:35:41] Hosting environment: Development
+INFORMATION: [2020-03-17 11:35:41] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+ERROR: [2020-03-17 11:36:36] An unhandled exception has occurred while executing the request.
+ERROR: [2020-03-17 11:37:50] An unhandled exception has occurred while executing the request.
+WARNING: [2020-03-17 11:45:31] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-17 11:45:31] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-17 11:45:31] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-17 11:45:31] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-17 11:45:31] Hosting environment: Development
+INFORMATION: [2020-03-17 11:45:31] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+ERROR: [2020-03-17 11:47:02] An unhandled exception has occurred while executing the request.
+ERROR: [2020-03-17 11:47:21] An unhandled exception has occurred while executing the request.
+WARNING: [2020-03-17 11:48:52] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-17 11:48:53] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-17 11:48:53] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-17 11:48:53] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-17 11:48:53] Hosting environment: Development
+INFORMATION: [2020-03-17 11:48:53] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+ERROR: [2020-03-17 11:49:16] An unhandled exception has occurred while executing the request.
+WARNING: [2020-03-17 11:56:23] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-17 11:56:23] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-17 11:56:23] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-17 11:56:23] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-17 11:56:23] Hosting environment: Development
+INFORMATION: [2020-03-17 11:56:23] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+ERROR: [2020-03-17 11:56:48] An unhandled exception has occurred while executing the request.
+WARNING: [2020-03-17 11:58:12] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-17 11:58:13] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-17 11:58:13] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-17 11:58:13] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-17 11:58:13] Hosting environment: Development
+INFORMATION: [2020-03-17 11:58:13] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+ERROR: [2020-03-17 11:58:30] An unhandled exception has occurred while executing the request.
+ERROR: [2020-03-17 11:59:37] An unhandled exception has occurred while executing the request.
+WARNING: [2020-03-17 12:09:01] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-17 12:09:01] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-17 12:09:01] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-17 12:09:01] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-17 12:09:01] Hosting environment: Development
+INFORMATION: [2020-03-17 12:09:01] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+WARNING: [2020-03-17 12:09:45] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-17 12:09:46] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-17 12:09:46] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-17 12:09:46] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-17 12:09:46] Hosting environment: Development
+INFORMATION: [2020-03-17 12:09:46] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+ERROR: [2020-03-17 12:10:17] An unhandled exception has occurred while executing the request.
+WARNING: [2020-03-17 12:11:04] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-17 12:11:05] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-17 12:11:05] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-17 12:11:05] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-17 12:11:05] Hosting environment: Development
+INFORMATION: [2020-03-17 12:11:05] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+ERROR: [2020-03-17 12:11:23] An unhandled exception has occurred while executing the request.
+WARNING: [2020-03-17 12:15:36] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-17 12:15:36] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-17 12:15:36] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-17 12:15:36] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-17 12:15:36] Hosting environment: Development
+INFORMATION: [2020-03-17 12:15:36] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+ERROR: [2020-03-17 12:16:10] An unhandled exception has occurred while executing the request.
+WARNING: [2020-03-17 12:25:22] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-17 12:25:23] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-17 12:25:23] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-17 12:25:23] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-17 12:25:23] Hosting environment: Development
+INFORMATION: [2020-03-17 12:25:23] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+ERROR: [2020-03-17 12:25:40] An unhandled exception has occurred while executing the request.
+ERROR: [2020-03-17 12:27:49] An unhandled exception has occurred while executing the request.
+ERROR: [2020-03-17 12:28:14] An unhandled exception has occurred while executing the request.
+WARNING: [2020-03-17 01:12:17] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-17 01:12:18] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-17 01:12:18] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-17 01:12:18] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-17 01:12:18] Hosting environment: Development
+INFORMATION: [2020-03-17 01:12:18] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+WARNING: [2020-03-17 01:19:31] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-17 01:19:31] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-17 01:19:31] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-17 01:19:31] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-17 01:19:31] Hosting environment: Development
+INFORMATION: [2020-03-17 01:19:31] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+ERROR: [2020-03-17 01:19:51] An unhandled exception has occurred while executing the request.
+WARNING: [2020-03-17 03:16:57] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-17 03:16:58] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-17 03:16:58] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-17 03:16:58] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-17 03:16:58] Hosting environment: Development
+INFORMATION: [2020-03-17 03:16:58] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+ERROR: [2020-03-17 03:17:30] An unhandled exception has occurred while executing the request.
+WARNING: [2020-03-17 03:51:21] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-17 03:51:22] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-17 03:51:22] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-17 03:51:22] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-17 03:51:22] Hosting environment: Development
+INFORMATION: [2020-03-17 03:51:22] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+ERROR: [2020-03-17 03:52:07] An unhandled exception has occurred while executing the request.
+WARNING: [2020-03-17 03:57:42] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-17 03:57:43] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-17 03:57:43] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-17 03:57:43] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-17 03:57:43] Hosting environment: Development
+INFORMATION: [2020-03-17 03:57:43] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+WARNING: [2020-03-17 03:59:13] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-17 03:59:13] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-17 03:59:13] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-17 03:59:13] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-17 03:59:13] Hosting environment: Development
+INFORMATION: [2020-03-17 03:59:13] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+WARNING: [2020-03-17 03:59:44] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-17 03:59:45] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-17 03:59:45] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-17 03:59:45] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-17 03:59:45] Hosting environment: Development
+INFORMATION: [2020-03-17 03:59:45] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+WARNING: [2020-03-17 04:03:27] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-17 04:03:27] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-17 04:03:27] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-17 04:03:27] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-17 04:03:27] Hosting environment: Development
+INFORMATION: [2020-03-17 04:03:27] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+WARNING: [2020-03-17 04:04:49] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-17 04:04:49] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-17 04:04:49] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-17 04:04:49] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-17 04:04:49] Hosting environment: Development
+INFORMATION: [2020-03-17 04:04:49] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+ERROR: [2020-03-17 04:05:27] An unhandled exception has occurred while executing the request.
+WARNING: [2020-03-17 04:06:21] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-17 04:06:22] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-17 04:06:22] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-17 04:06:22] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-17 04:06:22] Hosting environment: Development
+INFORMATION: [2020-03-17 04:06:22] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+ERROR: [2020-03-17 04:07:06] An unhandled exception has occurred while executing the request.
+ERROR: [2020-03-17 04:14:07] An unhandled exception has occurred while executing the request.
+WARNING: [2020-03-17 04:16:18] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-17 04:16:19] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-17 04:16:19] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-17 04:16:19] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-17 04:16:19] Hosting environment: Development
+INFORMATION: [2020-03-17 04:16:19] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+WARNING: [2020-03-19 08:14:24] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-19 08:14:25] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-19 08:14:25] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-19 08:14:25] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-19 08:14:25] Hosting environment: Development
+INFORMATION: [2020-03-19 08:14:25] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+WARNING: [2020-03-19 09:34:53] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-19 09:34:54] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-19 09:34:54] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-19 09:34:54] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-19 09:34:54] Hosting environment: Development
+INFORMATION: [2020-03-19 09:34:54] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+ERROR: [2020-03-19 09:35:12] An unhandled exception has occurred while executing the request.
+WARNING: [2020-03-19 09:36:23] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-19 09:36:23] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-19 09:36:23] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-19 09:36:23] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-19 09:36:23] Hosting environment: Development
+INFORMATION: [2020-03-19 09:36:23] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+WARNING: [2020-03-19 09:36:34] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-19 09:36:34] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-19 09:36:34] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-19 09:36:34] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-19 09:36:34] Hosting environment: Development
+INFORMATION: [2020-03-19 09:36:34] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+ERROR: [2020-03-19 09:37:26] An unhandled exception has occurred while executing the request.
+WARNING: [2020-03-19 09:40:03] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-19 09:40:03] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-19 09:40:03] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-19 09:40:03] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-19 09:40:03] Hosting environment: Development
+INFORMATION: [2020-03-19 09:40:03] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+ERROR: [2020-03-19 09:41:05] An unhandled exception has occurred while executing the request.
+WARNING: [2020-03-19 09:44:43] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-19 09:44:44] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-19 09:44:44] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-19 09:44:44] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-19 09:44:44] Hosting environment: Development
+INFORMATION: [2020-03-19 09:44:44] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+ERROR: [2020-03-19 09:45:59] An unhandled exception has occurred while executing the request.
+WARNING: [2020-03-19 09:57:40] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-19 09:57:40] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-19 09:57:40] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-19 09:57:40] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-19 09:57:40] Hosting environment: Development
+INFORMATION: [2020-03-19 09:57:40] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+ERROR: [2020-03-19 09:58:24] An unhandled exception has occurred while executing the request.
+WARNING: [2020-03-19 10:08:22] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-19 10:08:23] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-19 10:08:23] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-19 10:08:23] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-19 10:08:23] Hosting environment: Development
+INFORMATION: [2020-03-19 10:08:23] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+ERROR: [2020-03-19 10:09:32] Failed executing DbCommand (9ms) [Parameters=[@p0='?' (Size = 450), @p1='?' (DbType = Int32), @p2='?' (Size = 4000), @p3='?' (Size = 4000), @p4='?' (Size = 4000), @p5='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [PetsTransfer] ([ClientId], [PetId], [ReceiverEmail], [TranfererPhone], [TransferToken], [Username])
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5);
+SELECT [Id], [TimeStamp]
+FROM [PetsTransfer]
+WHERE @@ROWCOUNT = 1 AND [Id] = scope_identity();
+ERROR: [2020-03-19 10:09:32] An exception occurred in the database while saving changes for context type 'Pet.Tracker.Server.ApplicationDbContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid column name 'ReceiverEmail'.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:509f75ec-1246-476b-847d-18330cff05f9
+Error Number:207,State:1,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+ERROR: [2020-03-19 10:09:33] An unhandled exception has occurred while executing the request.
+WARNING: [2020-03-19 10:10:19] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-19 10:10:30] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-19 10:10:30] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-19 10:10:30] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-19 10:10:30] Hosting environment: Development
+INFORMATION: [2020-03-19 10:10:30] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+WARNING: [2020-03-19 10:50:59] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-19 10:51:10] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-19 10:51:10] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-19 10:51:10] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-19 10:51:10] Hosting environment: Development
+INFORMATION: [2020-03-19 10:51:10] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+ERROR: [2020-03-19 10:57:24] Failed executing DbCommand (15ms) [Parameters=[@p0='?' (Size = 450), @p1='?' (DbType = Int32), @p2='?' (Size = 4000), @p3='?' (Size = 4000), @p4='?' (Size = 4000), @p5='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [PetsTransfer] ([ClientId], [PetId], [TranferPhone], [TransferEmail], [TransfererToken], [Username])
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5);
+SELECT [Id], [TimeStamp]
+FROM [PetsTransfer]
+WHERE @@ROWCOUNT = 1 AND [Id] = scope_identity();
+ERROR: [2020-03-19 10:57:24] An exception occurred in the database while saving changes for context type 'Pet.Tracker.Server.ApplicationDbContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot insert the value NULL into column 'TransferEmail', table 'Pet-tracker.dbo.PetsTransfer'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:55615e54-b4e1-4e79-aca3-425e15018ffb
+Error Number:515,State:2,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+ERROR: [2020-03-19 10:57:24] An unhandled exception has occurred while executing the request.
+ERROR: [2020-03-19 10:58:36] Failed executing DbCommand (19ms) [Parameters=[@p0='?' (Size = 450), @p1='?' (DbType = Int32), @p2='?' (Size = 4000), @p3='?' (Size = 4000), @p4='?' (Size = 4000), @p5='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [PetsTransfer] ([ClientId], [PetId], [TranferPhone], [TransferEmail], [TransfererToken], [Username])
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5);
+SELECT [Id], [TimeStamp]
+FROM [PetsTransfer]
+WHERE @@ROWCOUNT = 1 AND [Id] = scope_identity();
+ERROR: [2020-03-19 10:58:36] An exception occurred in the database while saving changes for context type 'Pet.Tracker.Server.ApplicationDbContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): The INSERT statement conflicted with the FOREIGN KEY constraint "FK_PetsTransfer_Pets_PetId". The conflict occurred in database "Pet-tracker", table "dbo.Pets", column 'Id'.
+The statement has been terminated.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+ClientConnectionId:55615e54-b4e1-4e79-aca3-425e15018ffb
+Error Number:547,State:0,Class:16
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.Execute(IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChanges(IList`1 entries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(DbContext _, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+ERROR: [2020-03-19 10:58:36] An unhandled exception has occurred while executing the request.
+WARNING: [2020-03-19 11:14:08] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-19 11:14:09] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-19 11:14:09] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-19 11:14:09] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-19 11:14:09] Hosting environment: Development
+INFORMATION: [2020-03-19 11:14:09] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+ERROR: [2020-03-19 11:14:46] Failed executing DbCommand (5ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [p].[Id], [p].[ClientId], [p].[PetId], [p].[TimeStamp], [p].[TranferPhone], [p].[Transfer], [p].[TransferEmail], [p].[TransfererToken], [p].[Username]
+FROM [PetsTransfer] AS [p]
+WHERE [p].[Id] = @__p_0
+ERROR: [2020-03-19 11:14:46] An exception occurred while iterating over the results of a query for context type 'Pet.Tracker.Server.ApplicationDbContext'.
+Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid column name 'Transfer'.
+   at Microsoft.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__164_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.Tasks.Task.<>c.<.cctor>b__274_0(Object obj)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(DbContext _, Boolean result, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+ClientConnectionId:1a666f04-9b49-4b85-88db-036a77b2dd3d
+Error Number:207,State:1,Class:16
+ERROR: [2020-03-19 11:14:46] An unhandled exception has occurred while executing the request.
+WARNING: [2020-03-19 11:16:00] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-19 11:16:11] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-19 11:16:11] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-19 11:16:11] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-19 11:16:11] Hosting environment: Development
+INFORMATION: [2020-03-19 11:16:11] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+ERROR: [2020-03-19 11:20:15] An unhandled exception has occurred while executing the request.
+WARNING: [2020-03-19 11:20:39] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-19 11:20:40] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-19 11:20:40] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-19 11:20:40] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-19 11:20:40] Hosting environment: Development
+INFORMATION: [2020-03-19 11:20:40] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+WARNING: [2020-03-19 11:28:02] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-19 11:28:03] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-19 11:28:03] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-19 11:28:03] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-19 11:28:03] Hosting environment: Development
+INFORMATION: [2020-03-19 11:28:03] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+ERROR: [2020-03-19 11:29:14] An unhandled exception has occurred while executing the request.
+WARNING: [2020-03-19 11:32:59] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-19 11:32:59] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-19 11:32:59] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-19 11:32:59] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-19 11:32:59] Hosting environment: Development
+INFORMATION: [2020-03-19 11:32:59] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+ERROR: [2020-03-19 11:36:13] An unhandled exception has occurred while executing the request.
+WARNING: [2020-03-19 12:01:12] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-19 12:01:13] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-19 12:01:13] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-19 12:01:13] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-19 12:01:13] Hosting environment: Development
+INFORMATION: [2020-03-19 12:01:13] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+WARNING: [2020-03-19 12:04:34] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-19 12:04:35] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-19 12:04:35] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-19 12:04:35] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-19 12:04:35] Hosting environment: Development
+INFORMATION: [2020-03-19 12:04:35] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+WARNING: [2020-03-19 12:06:18] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-19 12:06:19] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-19 12:06:19] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-19 12:06:19] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-19 12:06:19] Hosting environment: Development
+INFORMATION: [2020-03-19 12:06:19] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+WARNING: [2020-03-19 12:21:35] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-19 12:21:35] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-19 12:21:35] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-19 12:21:35] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-19 12:21:35] Hosting environment: Development
+INFORMATION: [2020-03-19 12:21:35] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+ERROR: [2020-03-19 12:22:18] An unhandled exception has occurred while executing the request.
+WARNING: [2020-03-19 12:25:48] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-19 12:25:49] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-19 12:25:49] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-19 12:25:49] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-19 12:25:49] Hosting environment: Development
+INFORMATION: [2020-03-19 12:25:49] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+WARNING: [2020-03-19 12:30:34] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-19 12:30:34] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-19 12:30:34] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-19 12:30:34] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-19 12:30:34] Hosting environment: Development
+INFORMATION: [2020-03-19 12:30:34] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+ERROR: [2020-03-19 12:33:51] An unhandled exception has occurred while executing the request.
+WARNING: [2020-03-19 12:49:02] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-19 12:49:03] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-19 12:49:03] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-19 12:49:03] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-19 12:49:03] Hosting environment: Development
+INFORMATION: [2020-03-19 12:49:03] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+WARNING: [2020-03-19 01:11:43] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-03-19 01:11:44] Now listening on: https://localhost:5001
+INFORMATION: [2020-03-19 01:11:44] Now listening on: http://localhost:5000
+INFORMATION: [2020-03-19 01:11:44] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-03-19 01:11:44] Hosting environment: Development
+INFORMATION: [2020-03-19 01:11:44] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+WARNING: [2020-04-13 01:40:22] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-04-13 01:40:24] Now listening on: https://localhost:5001
+INFORMATION: [2020-04-13 01:40:24] Now listening on: http://localhost:5000
+INFORMATION: [2020-04-13 01:40:24] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-04-13 01:40:24] Hosting environment: Development
+INFORMATION: [2020-04-13 01:40:24] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+WARNING: [2020-04-13 01:57:46] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-04-13 01:57:47] Now listening on: https://localhost:5001
+INFORMATION: [2020-04-13 01:57:47] Now listening on: http://localhost:5000
+INFORMATION: [2020-04-13 01:57:47] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-04-13 01:57:47] Hosting environment: Development
+INFORMATION: [2020-04-13 01:57:47] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+WARNING: [2020-04-15 12:01:30] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-04-15 12:01:32] Now listening on: https://localhost:5001
+INFORMATION: [2020-04-15 12:01:32] Now listening on: http://localhost:5000
+INFORMATION: [2020-04-15 12:01:32] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-04-15 12:01:32] Hosting environment: Development
+INFORMATION: [2020-04-15 12:01:32] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+WARNING: [2020-04-15 05:26:45] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-04-15 05:26:46] Now listening on: https://localhost:5001
+INFORMATION: [2020-04-15 05:26:46] Now listening on: http://localhost:5000
+INFORMATION: [2020-04-15 05:26:46] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-04-15 05:26:46] Hosting environment: Development
+INFORMATION: [2020-04-15 05:26:46] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+WARNING: [2020-04-16 09:49:53] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-04-16 09:49:54] Now listening on: https://localhost:5001
+INFORMATION: [2020-04-16 09:49:54] Now listening on: http://localhost:5000
+INFORMATION: [2020-04-16 09:49:54] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-04-16 09:49:54] Hosting environment: Development
+INFORMATION: [2020-04-16 09:49:54] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+WARNING: [2020-04-17 12:29:26] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-04-17 12:29:27] Now listening on: https://localhost:5001
+INFORMATION: [2020-04-17 12:29:27] Now listening on: http://localhost:5000
+INFORMATION: [2020-04-17 12:29:27] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-04-17 12:29:27] Hosting environment: Development
+INFORMATION: [2020-04-17 12:29:27] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+WARNING: [2020-04-17 01:35:59] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+CRITICAL: [2020-04-17 01:36:00] Unable to start Kestrel.
+WARNING: [2020-04-17 01:36:39] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-04-17 01:36:40] Now listening on: https://127.0.0.1:5001
+INFORMATION: [2020-04-17 01:36:40] Now listening on: http://localhost:5000
+INFORMATION: [2020-04-17 01:36:40] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-04-17 01:36:40] Hosting environment: Development
+INFORMATION: [2020-04-17 01:36:40] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+WARNING: [2020-05-05 04:24:52] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-05-05 04:24:53] Now listening on: https://localhost:5001
+INFORMATION: [2020-05-05 04:24:53] Now listening on: http://localhost:5000
+INFORMATION: [2020-05-05 04:24:53] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-05-05 04:24:53] Hosting environment: Development
+INFORMATION: [2020-05-05 04:24:53] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+WARNING: [2020-05-05 01:44:01] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-05-05 01:44:02] Now listening on: https://localhost:5001
+INFORMATION: [2020-05-05 01:44:02] Now listening on: http://localhost:5000
+INFORMATION: [2020-05-05 01:44:02] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-05-05 01:44:02] Hosting environment: Development
+INFORMATION: [2020-05-05 01:44:02] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+WARNING: [2020-05-05 02:03:38] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-05-05 02:03:39] Now listening on: https://localhost:5001
+INFORMATION: [2020-05-05 02:03:39] Now listening on: http://localhost:5000
+INFORMATION: [2020-05-05 02:03:39] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-05-05 02:03:39] Hosting environment: Development
+INFORMATION: [2020-05-05 02:03:39] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+WARNING: [2020-05-05 02:24:27] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-05-05 02:24:28] Now listening on: https://localhost:5001
+INFORMATION: [2020-05-05 02:24:28] Now listening on: http://localhost:5000
+INFORMATION: [2020-05-05 02:24:28] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-05-05 02:24:28] Hosting environment: Development
+INFORMATION: [2020-05-05 02:24:28] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+WARNING: [2020-05-05 02:29:28] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-05-05 02:29:28] Now listening on: https://localhost:5001
+INFORMATION: [2020-05-05 02:29:28] Now listening on: http://localhost:5000
+INFORMATION: [2020-05-05 02:29:28] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-05-05 02:29:28] Hosting environment: Development
+INFORMATION: [2020-05-05 02:29:28] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+INFORMATION: [2020-05-05 06:22:26] Application is shutting down...
+WARNING: [2020-05-06 12:17:52] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-05-06 12:17:53] Now listening on: https://localhost:5001
+INFORMATION: [2020-05-06 12:17:53] Now listening on: http://localhost:5000
+INFORMATION: [2020-05-06 12:17:53] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-05-06 12:17:53] Hosting environment: Development
+INFORMATION: [2020-05-06 12:17:53] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+WARNING: [2020-05-07 04:19:10] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-05-07 04:19:11] Now listening on: https://localhost:5001
+INFORMATION: [2020-05-07 04:19:11] Now listening on: http://localhost:5000
+INFORMATION: [2020-05-07 04:19:11] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-05-07 04:19:11] Hosting environment: Development
+INFORMATION: [2020-05-07 04:19:11] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+ERROR: [2020-05-07 04:21:24] An unhandled exception has occurred while executing the request.
+ERROR: [2020-05-07 04:22:11] An unhandled exception has occurred while executing the request.
+ERROR: [2020-05-07 04:24:18] An unhandled exception has occurred while executing the request.
+WARNING: [2020-05-07 04:25:27] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-05-07 04:25:28] Now listening on: https://localhost:5001
+INFORMATION: [2020-05-07 04:25:28] Now listening on: http://localhost:5000
+INFORMATION: [2020-05-07 04:25:28] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-05-07 04:25:28] Hosting environment: Development
+INFORMATION: [2020-05-07 04:25:28] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+ERROR: [2020-05-07 04:25:39] An unhandled exception has occurred while executing the request.
+WARNING: [2020-05-07 04:26:13] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-05-07 04:26:14] Now listening on: https://localhost:5001
+INFORMATION: [2020-05-07 04:26:14] Now listening on: http://localhost:5000
+INFORMATION: [2020-05-07 04:26:14] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-05-07 04:26:14] Hosting environment: Development
+INFORMATION: [2020-05-07 04:26:14] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+WARNING: [2020-05-07 04:28:36] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-05-07 04:28:37] Now listening on: https://localhost:5001
+INFORMATION: [2020-05-07 04:28:37] Now listening on: http://localhost:5000
+INFORMATION: [2020-05-07 04:28:37] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-05-07 04:28:37] Hosting environment: Development
+INFORMATION: [2020-05-07 04:28:37] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+ERROR: [2020-05-07 04:29:37] An unhandled exception has occurred while executing the request.
+WARNING: [2020-05-07 04:56:55] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-05-07 04:56:56] Now listening on: https://localhost:5001
+INFORMATION: [2020-05-07 04:56:56] Now listening on: http://localhost:5000
+INFORMATION: [2020-05-07 04:56:56] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-05-07 04:56:56] Hosting environment: Development
+INFORMATION: [2020-05-07 04:56:56] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+WARNING: [2020-05-07 11:44:16] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-05-07 11:44:17] Now listening on: https://localhost:5001
+INFORMATION: [2020-05-07 11:44:17] Now listening on: http://localhost:5000
+INFORMATION: [2020-05-07 11:44:17] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-05-07 11:44:17] Hosting environment: Development
+INFORMATION: [2020-05-07 11:44:17] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+WARNING: [2020-05-09 12:16:59] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-05-09 12:17:00] Now listening on: https://localhost:5001
+INFORMATION: [2020-05-09 12:17:00] Now listening on: http://localhost:5000
+INFORMATION: [2020-05-09 12:17:00] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-05-09 12:17:00] Hosting environment: Development
+INFORMATION: [2020-05-09 12:17:00] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+WARNING: [2020-05-29 02:53:03] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-05-29 02:53:05] Now listening on: https://localhost:5001
+INFORMATION: [2020-05-29 02:53:05] Now listening on: http://localhost:5000
+INFORMATION: [2020-05-29 02:53:05] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-05-29 02:53:05] Hosting environment: Development
+INFORMATION: [2020-05-29 02:53:05] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server
+WARNING: [2020-05-29 04:24:48] User 977e5fa1-9239-480f-bebc-8a91ede92006 password validation failed: PasswordTooShort.
+WARNING: [2020-05-29 04:27:01] User f1339675-7032-4936-8d51-f9ff95297979 validation failed: DuplicateUserName;DuplicateEmail.
+WARNING: [2020-05-29 01:29:18] No type was specified for the decimal column 'Height' on entity type 'Pets'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+INFORMATION: [2020-05-29 01:29:19] Now listening on: https://localhost:5001
+INFORMATION: [2020-05-29 01:29:19] Now listening on: http://localhost:5000
+INFORMATION: [2020-05-29 01:29:19] Application started. Press Ctrl+C to shut down.
+INFORMATION: [2020-05-29 01:29:19] Hosting environment: Development
+INFORMATION: [2020-05-29 01:29:19] Content root path: D:\Documents\Visual Studio 2019\Projects\Pet.Tracker.Server\Pet.Tracker.Server

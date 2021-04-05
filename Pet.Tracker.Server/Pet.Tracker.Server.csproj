@@ -1,0 +1,37 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="SMS\Templates\GeneralTemplate.htm" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="SMS\Templates\GeneralTemplate.htm" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Dna.Framework" Version="1.0.7.18" />
+    <PackageReference Include="Dna.Framework.AspNet" Version="1.0.8" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="3.1.3" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="3.1.3" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.3" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.3" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="3.1.3" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+    <PackageReference Include="Twilio" Version="5.40.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Pet.tracker.core\Pet.Tracker.Core.csproj" />
+  </ItemGroup>
+
+
+
+</Project>
